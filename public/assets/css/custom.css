@@ -1,0 +1,58 @@
+.badge-primary {
+    background: #009ef7;
+    color: #fff;
+    padding: 5px;
+    border-radius: 3px;
+    font-size: 12px;
+    display: inline-block;
+}
+
+/*.required{
+    color: red !important;
+}*/
+
+.sidebar .sidebar-menu > ul > li > ul > li.active a {
+    background: #1b2850 !important;
+    border-radius: 5px !important;
+    color: white !important;
+}
+.display-block{
+    display: block !important;
+}
+.table tbody tr td {
+    border: 1px solid #e9ecef !important;
+}
+.table tbody tr td input{
+    padding: 6px !important;
+}
+.table tbody tr th {
+    border: 1px solid #e9ecef !important;
+}
+.custom-card-title{
+    font-weight: 700 !important;
+}
+.book-demand-input{
+    width: 65px !important;
+}
+.action-div .edit-btn a{
+    color: white !important;
+}
+.action-btn{
+    width: fit-content;
+}
+.link-item{
+    color: #009ef7 !important;
+}
+.dashboard-demand-collection{
+    color: white !important;
+}
+.dashboard-demand-collection:hover{
+    color: #ffef00 !important;
+}
+.form-group {
+    margin-bottom: 10px !important;
+}
+.add-more-btn{
+    margin: 15% !important;
+}
+/*Pdf download font*/
